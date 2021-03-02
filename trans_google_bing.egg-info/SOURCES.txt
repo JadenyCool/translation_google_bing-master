@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+google_bing_trans/__init__.py
+google_bing_trans/bingtrans/__init__.py
+google_bing_trans/bingtrans/bing_translator.py
+google_bing_trans/googletrans/__init__.py
+google_bing_trans/googletrans/constants.py
+google_bing_trans/googletrans/translation.py
+trans_google_bing.egg-info/PKG-INFO
+trans_google_bing.egg-info/SOURCES.txt
+trans_google_bing.egg-info/dependency_links.txt
+trans_google_bing.egg-info/requires.txt
+trans_google_bing.egg-info/top_level.txt
+trans_google_bing.egg-info/zip-safe

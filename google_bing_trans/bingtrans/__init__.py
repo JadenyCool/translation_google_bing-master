@@ -1,0 +1,1 @@
+from google_bing_trans.bingtrans.bing_translator import bing_translator
